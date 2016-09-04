@@ -9,8 +9,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Response\\": "/",
-            "Response\\Service": "/Service/"
+            "Response\\": "",
+            "Response\\Service": "Service/"
         }
     }
 }
