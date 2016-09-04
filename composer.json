@@ -1,0 +1,16 @@
+{
+    "name": "Neo008",
+    "description": "General Method to Get Response from API using CURL functions",
+    "keywords": ["Response", "curl"],
+    "license": "MIT",
+    "type": "patch",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Response\\": "/",
+            "Response\\Service": "/Service/"
+        }
+    }
+}
